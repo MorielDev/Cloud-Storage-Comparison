@@ -142,3 +142,5 @@ Personal Insights and Recommendations
     Multi-Cloud Adoption: Tools like AWS Outposts and Google Anthos bridge on-prem and cloud environments.
 
     Sustainability: AWS, GCP, and Azure aim for carbon-neutral operations by 2030.
+
+   AWS URL: s3://csc302bucket/CLOUD STORAGE COMPARISON.mp4
