@@ -144,3 +144,4 @@ Personal Insights and Recommendations
     Sustainability: AWS, GCP, and Azure aim for carbon-neutral operations by 2030.
 
    AWS URL: s3://csc302bucket/CLOUD STORAGE COMPARISON.mp4
+   YOUTUBE LINK: https://youtu.be/GsnwZm7NoZU
